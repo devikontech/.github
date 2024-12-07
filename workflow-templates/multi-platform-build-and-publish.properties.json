@@ -1,6 +1,6 @@
 {
   "name": "Multi Platform Build And Publish",
-  "description": "Build and publish a Kotlin Multiplatform Application",
+  "description": "Configure Kotlin Multiplatform Application Build And Publish Workflow",
   "iconName": "octicon package",
   "filePatterns": [
     "build.gradle.kts$",
